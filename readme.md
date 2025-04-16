@@ -89,7 +89,7 @@ An anime ranking app that ranks anime by ratings and lets you save favorite anim
 
 https://www.figma.com/design/ZGvtoio6Gxs3O4shnlMtyi/ios101-capstone-interactive-prototype?node-id=0-1&t=f65Fp8d09FpgBEV8-1
 
-## Schema 
+# Schema 
 
 ### Models
 
@@ -116,8 +116,6 @@ https://www.figma.com/design/ZGvtoio6Gxs3O4shnlMtyi/ios101-capstone-interactive-
 | PageInfo        | currentPage   | Int              | Index of the current page.
 |                 | hasNextPage   | Boolean          | Whether or not another page exists for this query.
 |                 | perPage       | Int              | Number of items loaded per page.
-
----
 
 ### Networking
 
