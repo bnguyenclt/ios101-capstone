@@ -1,0 +1,19 @@
+query Pagination ($id: Int, $page: Int!, $perPage: Int!, $search: String) {
+  Page (page: $page, perPage: $perPage) {
+    pageInfo {
+      currentPage
+      hasNextPage
+      perPage
+    }
+    media (id: $id, search: $search, isAdult: false) {
+      id
+      title {
+        romaji
+      }
+      coverImage {
+        extraLarge
+      }
+      siteUrl
+    }
+  }
+}

@@ -1,0 +1,13 @@
+fragment MediaDetails on Media {
+    id
+    title {
+        romaji
+        english
+        native
+    }
+    siteUrl
+    coverImage {
+        extraLarge
+        color
+    }
+}

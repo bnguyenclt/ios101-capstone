@@ -1,0 +1,12 @@
+query MediaByID ($id: Int) {
+    Media(id: $id) {
+        ...MediaDetails
+        description
+        season
+        seasonYear
+        episodes
+        genres
+        averageScore
+        popularity
+    }
+}
