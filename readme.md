@@ -85,9 +85,13 @@ An anime ranking app that ranks anime by ratings and lets you save favorite anim
 
 <img src="https://i.postimg.cc/SKPdWtS5/ios101-capstone-sketch-wireframe.png" width=600>
 
-### [BONUS] Digital Wireframes & Mockups / Interactive Prototype
+### Digital Wireframes & Mockups / Interactive Prototype
 
 https://www.figma.com/design/ZGvtoio6Gxs3O4shnlMtyi/ios101-capstone-interactive-prototype?node-id=0-1&t=f65Fp8d09FpgBEV8-1
+
+### Demo Video
+
+https://www.loom.com/share/cec7776b064c437fb979932e9094a79f?sid=d67d5240-d775-40f7-80be-b1abc79302af
 
 # Schema 
 
